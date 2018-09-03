@@ -1,9 +1,10 @@
 # tdl-mozart-fiuba
  [75.31] Teoría del lenguaje - FIUBA 
 
-## Link 
+## Links
 * Slack: [tdl-fiuba.slack](https://tdl-fiuba.slack.com)
 * GoogleSite: [fiuba7531](https://sites.google.com/site/fiuba7531/)
+* Why Linux32?: [Linux32](https://gerardnico.com/linux/linux32)
 
 ## Installing EMACS
 Previamente se debe tener instalado EMACS.
