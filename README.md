@@ -9,7 +9,7 @@
 ## Installing EMACS
 Previamente se debe tener instalado EMACS.
 
-### Linux(Ubuntu)
+### Linux (Ubuntu)
 ```
 sudo apt-get install emacs
 ```
@@ -17,6 +17,7 @@ sudo apt-get install emacs
 ## Installing MOZART
 
 ### Linux (Ubuntu)
+Probado en Ubuntu 14.04 LTS de 64bits.
 
 Instalación Mozart 1.4 descargando desde repositorio en **SourceForge**
 ```
@@ -31,7 +32,7 @@ Probar si funciona.
 
 * Instalar `homebrew`
 * Instalar [emacsformacosx](https://emacsformacosx.com/)
-* Seguir las instrucciones de [EADME.MacOS](https://github.com/mozart/mozart2/blob/master/README.MacOS.md), basicamente:
+* Seguir las instrucciones de [README.MacOS](https://github.com/mozart/mozart2/blob/master/README.MacOS.md), basicamente:
 
 ```
 brew tap dskecse/tap
