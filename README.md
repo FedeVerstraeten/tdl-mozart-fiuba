@@ -6,6 +6,19 @@
 * GoogleSite: [fiuba7531](https://sites.google.com/site/fiuba7531/)
 * Why Linux32?: [Linux32](https://gerardnico.com/linux/linux32)
 
+## TP - Rust??
+
+Material para la preparación del trabajo práctico grupal sobre Rust
+
+* Leer de la [documentación oficial](https://doc.rust-lang.org/book/second-edition/foreword.html) los capítulos interesantes: 1, 2, 3, 4 y 7.
+* Temas interesantes de rust: type-safety, zero-cost abstractions, no null, Safe concurrency (no data races), Ownership/borrowing method.
+* [Paradigms of Rust for the Go developer](https://medium.com/@deckarep/paradigms-of-rust-for-the-go-developer-210f67cd6a29)
+* [Abstraction without overhead: traits in Rust](https://blog.rust-lang.org/2015/05/11/traits.html)
+* [From python to go to rust](http://tech.allo-media.net/point/of/view/2018/03/22/from-python-to-go-to-rust.html)
+* [Rust Concurrency Explained](https://www.youtube.com/watch?v=Dbytx0ivH7Q)
+* [Rust Tutorial: Learn How To Be Productive In Rust](https://www.youtube.com/watch?v=waC2wgknY0s)
+
+
 ## Installing EMACS
 Previamente se debe tener instalado EMACS.
 
@@ -41,7 +54,6 @@ brew cask install mozart2
 
 ### WINDOWS
 Completar. ¡Adelante mis valientes!
-
 
 ## Execution MOZART
 
