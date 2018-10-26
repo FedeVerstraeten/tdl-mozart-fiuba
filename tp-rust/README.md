@@ -4,7 +4,7 @@ Rust is a modern systems programming language focusing on safety, speed, and con
 
 ## How to install
 
-Intall [Rust 1.30.0](https://www.rust-lang.org/en-US/install.html)
+Official info to Install [Rust 1.30.0](https://www.rust-lang.org/en-US/install.html)
 
 ### Linux (Ubuntu)
 
