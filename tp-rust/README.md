@@ -16,7 +16,7 @@ curl https://sh.rustup.rs -sSf | sh
 
 ## Rust by Example
 
-(Rust by Example)[https://doc.rust-lang.org/rust-by-example/] (RBE) is a collection of runnable examples that illustrate various Rust concepts and standard libraries.
+[Rust by Example](https://doc.rust-lang.org/rust-by-example/) (RBE) is a collection of runnable examples that illustrate various Rust concepts and standard libraries.
 	
 ## Syntax Rust
 
