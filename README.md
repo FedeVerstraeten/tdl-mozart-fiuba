@@ -19,6 +19,7 @@ Material para la preparación del trabajo práctico grupal sobre Rust
 * [Rust Tutorial: Learn How To Be Productive In Rust](https://www.youtube.com/watch?v=waC2wgknY0s)
 * [Rust Playground](https://play.rust-lang.org/) - Website for run examples
 * [Into_rust()](http://intorust.com/) - Screencast for learning Rust
+* [Rust cookbook](https://rust-lang-nursery.github.io/rust-cookbook/)
 
 
 ## Installing EMACS
