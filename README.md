@@ -17,6 +17,8 @@ Material para la preparación del trabajo práctico grupal sobre Rust
 * [From python to go to rust](http://tech.allo-media.net/point/of/view/2018/03/22/from-python-to-go-to-rust.html)
 * [Rust Concurrency Explained](https://www.youtube.com/watch?v=Dbytx0ivH7Q)
 * [Rust Tutorial: Learn How To Be Productive In Rust](https://www.youtube.com/watch?v=waC2wgknY0s)
+* Website for run examples [Rust Playground](https://play.rust-lang.org/)
+* [Into_rust() - Screencast for learning Rust](http://intorust.com/)
 
 
 ## Installing EMACS
