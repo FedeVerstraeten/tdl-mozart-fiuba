@@ -6,7 +6,7 @@
 * GoogleSite: [fiuba7531](https://sites.google.com/site/fiuba7531/)
 * Why Linux32?: [Linux32](https://gerardnico.com/linux/linux32)
 
-## TP - Rust??
+## TP - Rust
 
 Material para la preparación del trabajo práctico grupal sobre Rust
 
