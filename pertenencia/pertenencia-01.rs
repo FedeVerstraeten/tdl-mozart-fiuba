@@ -22,6 +22,12 @@ fn main(){
 
 fn foo(){
 	let v = vec![1,2,3];
+
+	//let v2 = v; //Con esto y la siguiente linea tengo error
+	//ya que quisiera usar un valor despues de haberlo movido a v2
+	// y me va a sugerir usar v2
+
+	println!("v[0] es : {}", v[0]);
 }
 
 //Los binding a variable poseen pertenencia sobre lo que están asociados
@@ -29,4 +35,14 @@ fn foo(){
 // libera los recursos asociados a este
 
 
+//Cuando se transfiere la pertenencia a algo, en este caso a v2,
+//se dice que se movio la cosa a la cual nos referiamos ([1,2,3])
 
+
+
+//La linea let v = vec![1,2,3] asigna memoria para el objeto vector v 
+//y para su data
+//Al hacer let v2 = v, se mueve v a v2, creando una copia del puntero para v2
+// Esto significa que hay dos punteros para el contenido del vector 
+//Esto viola las garantias de seguridad de Rust, entonces, Rust
+//prohibe el uso de v despues de haber hecho el movimiento
