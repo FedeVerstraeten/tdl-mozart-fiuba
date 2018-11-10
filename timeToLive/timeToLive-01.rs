@@ -26,6 +26,11 @@ fn main(){
 	
 	}
 
+	//Explicito y con referencia
+	fn foo3<'z>(x: &'z mut i32){
+	
+	}
+
 
 }
 
@@ -39,4 +44,9 @@ fn main(){
 
 //Se usa <> para declarar el tiempo de vida, entonces
 //foo2 tiene un tiempo de vida: 'y.
-//
+
+
+//En foo3 se tiene &'z mut i32, que es lo mismo que &mut i32. Significa
+//que el tiempo de vida'z se ha metido entre el & y el mut i32. Se lee
+//&mut i32 =  referencia mutable a un i32 y &'z mut i32 = referencia 
+//mutable a un i32 con el tiempo de vida 'z
