@@ -20,6 +20,7 @@ fn fooFeo(v1: Vec<i32>, v2: Vec<i32>) -> (Vec<i32>,Vec<i32>,i32){
 fn fooLindo (v1: &Vec<i32>, v2: &Vec <i32>) -> i32 {
 	123456
 }
+// el -> indica que se devuelve la pertenencia
 
 //En fooLindo, en vez de tomar Vec<i32> como argumentos, tomo
 // una referencia: &Vec<i32>. y no paso directamente v1 y v2,

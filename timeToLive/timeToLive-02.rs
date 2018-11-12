@@ -8,7 +8,7 @@ struct Mistruct<'a> {
 
 fn main(){
 
-	let y = &10; //esto es lo mismo que let _y = 5 y let y = &_y
+	let y = &10; //esto es lo mismo que let _y = 10 y let y = &_y
 	let una_struct = Mistruct {x:y};
 
 	println!("{}", una_struct.x); 	

@@ -1,0 +1,3 @@
+nombre: Eze
+edad 27
+carrera Ing Electronica

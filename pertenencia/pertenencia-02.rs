@@ -29,12 +29,12 @@ fn foo(){
 
 }
 
-fn doble(x: i32) -> i32 {// el --> indica que se devuelve la pertenencia
-	x*2
+fn doble(x: i32) -> i32 {
+    x*2
 }
 
 fn mentir(x: bool) -> bool {
-	!x
+    !x
 }
 
 //Todos los tipos primitidos implementan el trait Copy y su pertenencia
