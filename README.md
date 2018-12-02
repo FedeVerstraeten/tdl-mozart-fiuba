@@ -5,7 +5,7 @@
 * Slack: [tdl-fiuba.slack](https://tdl-fiuba.slack.com)
 * GoogleSite: [fiuba7531](https://sites.google.com/site/fiuba7531/)
 * Why Linux32?: [Linux32](https://gerardnico.com/linux/linux32)
-* Simulador Maq. Abstracta Oz (https://kozily.surge.sh/)
+* Simulador Maq. Abstracta Oz: [Kozily](https://kozily.surge.sh/)
 
 ## TP - Rust
 
