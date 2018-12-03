@@ -1,0 +1,10 @@
+declare
+X={NewCell 0}
+{Assign	X 5}
+Y=X
+{Assign	Y 10}
+{Browse	{Access	X}==10}  % Imprime true
+{Browse	X==Y}            % Imprime true
+Z={NewCell 10}
+{Browse	Z==Y}            % Imprime false
+{Browse	@X==@Z}          % Imprime true
